@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samuel Soares
 
 🚀 Hybrid Data Engineer & Software Developer  
-💡 Indie hacker, product builder, and tech enthusiast
+💡 product builder, and tech enthusiast
 
 ## 👨‍💻 About Me
 
