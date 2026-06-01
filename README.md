@@ -1,23 +1,32 @@
 # 👋 Hi, I'm Samuel Soares
 
-🚀 Hybrid Data Engineer & Software Developer  
-💡 product builder, and tech enthusiast
+🚀 Software Developer & Data Engineer who **ships products, not just code**.
+🤖 I build **AI-native products** — and the infrastructure that runs them, from the database to the landing page.
 
-## 👨‍💻 About Me
+## 🧑 About Me
 
-- Currently working in a hybrid position as a **Data Engineer** and **Software Developer**
-- Strong background in **data science**, with a passion for creating impactful products
-- Always exploring new technologies, building projects, and learning
+- I work across **data engineering** and **software development**, but what drives me is **building products end-to-end**.
+- I don't stop at the prototype — I take ideas to production: architecture, infra, billing, and all the unglamorous parts in between.
+- Always shipping, always learning, always with a side project running in the background.
 
 ## 🛠️ Top Skills
 
-- **Programming:** Python, JavaScript
-- **Big Data & Cloud:** Spark, Cloud Platforms (AWS/Azure/GCP)
-- **AI & DevOps:** MLOps, Automation, CI/CD, Model Deployment
+- **Programming:** Python, JavaScript / TypeScript, Node.js
+- **Big Data & Cloud:** Spark, AWS / Azure / GCP
+- **AI & DevOps:** MLOps, CI/CD, Docker, automation, model deployment
+- **Product:** SaaS architecture, multi-tenancy, REST APIs, Stripe billing
 
 ## 🏆 Projects
 
-While my most notable projects are private (indie hacker style!), I'm always building and launching innovative solutions.
+### 🔵 [Talk4me](https://tlk4me.com) — *live*
+
+**AI-native messaging infrastructure.** Talk4me lets AI agents talk to real people on **WhatsApp, Telegram and Instagram** through a single API — born from AI, built for AI.
+
+- Designed, built and hosted **end-to-end** — backend, infrastructure, AI layer and billing.
+- Multi-tenant, multi-platform adapter architecture with per-session isolation for reliability at scale.
+- **Stack:** Next.js, FastAPI, LangChain, Node.js, Evolution API (Baileys), Docker, AWS EC2, Stripe.
+
+> The kind of project where I'm engineer, architect and founder at the same time.
 
 ## 🌱 What I Love
 
@@ -31,5 +40,4 @@ While my most notable projects are private (indie hacker style!), I'm always bui
 
 ---
 
-> “Find time to build.”  
-> — Samuel Soares
+> "Find time to build."
