@@ -15,9 +15,9 @@
 
 - 🗣️ **[Talk4me](https://tlk4me.com)** — AI agents talking to real people on WhatsApp, Telegram and Instagram through a single API
 - ⚖️ **[Quita](https://quita.techblood.com.br)** — Automated legal debt recovery SaaS for law firms
-- 📸 **[Photo Separator](https://photos.techblood.com.br)** — AI-powered photo sorting at scale
-- 🔍 **[ProspectCRM](https://crm.techblood.com.br)** — Lead prospecting from Google Maps with built-in CRM
-- ✅ **[Do It For Me](https://difm.techblood.com.br)** — Task delegation platform
+- 📸 **[Flama](https://photos.techblood.com.br)** — AI-powered photo sorting at scale
+- 🔍 **[Prospecto](https://crm.techblood.com.br)** — Lead prospecting from Google Maps with built-in CRM
+- ✅ **[Operand](https://difm.techblood.com.br)** — Task delegation platform
 
 ## What I'm Doing
 
