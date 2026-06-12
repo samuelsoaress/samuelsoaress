@@ -1,42 +1,33 @@
-# 👋 Hi, I'm Samuel Soares
+# Hi, I'm Samuel 👋
 
-🚀 Software Developer & Data Engineer who **ships products, not just code**.
-🤖 I build **AI-native products** — and the infrastructure that runs them, from the database to the landing page.
+📍 **Brazil** | 🤖 **Builder** | 🚀 **Ships end-to-end**
 
-## 🧑 About Me
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- I work across **data engineering** and **software development**, but what drives me is **building products end-to-end**.
-- I don't stop at the prototype — I take ideas to production: architecture, infra, billing, and all the unglamorous parts in between.
-- Always shipping, always learning, always with a side project running in the background.
+## Products
 
-## 🛠️ Top Skills
+- 🗣️ **[Talk4me](https://tlk4me.com)** — AI agents talking to real people on WhatsApp, Telegram and Instagram through a single API
+- ⚖️ **[Quita](https://quita.techblood.com.br)** — Automated legal debt recovery SaaS for law firms
+- 📸 **[Photo Separator](https://photos.techblood.com.br)** — AI-powered photo sorting at scale
+- 🔍 **[ProspectCRM](https://crm.techblood.com.br)** — Lead prospecting from Google Maps with built-in CRM
+- ✅ **[Do It For Me](https://difm.techblood.com.br)** — Task delegation platform
 
-- **Programming:** Python, JavaScript / TypeScript, Node.js
-- **Big Data & Cloud:** Spark, AWS / Azure / GCP
-- **AI & DevOps:** MLOps, CI/CD, Docker, automation, model deployment
-- **Product:** SaaS architecture, multi-tenancy, REST APIs, Stripe billing
+## What I'm Doing
 
-## 🏆 Projects
+- Building AI-native products from zero to production — backend, infra, billing and all the boring parts in between
+- Running everything on AWS + GCP with full CI/CD
 
-### 🔵 [Talk4me](https://tlk4me.com) — *live*
+## Connect
 
-**AI-native messaging infrastructure.** Talk4me lets AI agents talk to real people on **WhatsApp, Telegram and Instagram** through a single API — born from AI, built for AI.
-
-- Designed, built and hosted **end-to-end** — backend, infrastructure, AI layer and billing.
-- Multi-tenant, multi-platform adapter architecture with per-session isolation for reliability at scale.
-- **Stack:** Next.js, FastAPI, LangChain, Node.js, Evolution API (Baileys), Docker, AWS EC2, Stripe.
-
-> The kind of project where I'm engineer, architect and founder at the same time.
-
-## 🌱 What I Love
-
-- Technology, learning, and side projects
-- Producing music in my free time
-- Athlete: running and martial arts
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelssoares/)
+[![LinkedIn](https://img.shields.io/badge/-Samuel_Soares-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelssoares/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samuelsoaress)
 
 ---
 
